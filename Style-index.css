@@ -2,3 +2,15 @@ body {
     background-color:#f5E8D0;
     
 }
+img {
+    border-image-width: 2px;
+    border-color: #edffd9;
+}
+
+a {
+    color:#f6a035;
+        
+}
+p {
+    color:#3a3042;
+}
