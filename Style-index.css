@@ -1,5 +1,8 @@
 h1 {
     background-color: black;
+    font-size: 1rem;
+    color:#81B53A;
+    font-weight: bold;
 }
 
 body {
@@ -18,14 +21,6 @@ img {
     border-image-width: 2px;
     border-color: #edffd9;
     float: center;
-
-}
-
-h1 {
-    font-size: 1rem;
-    color:#81B53A;
-    background-color: black;
-    font-weight: bold;
 }
 
 h2{
