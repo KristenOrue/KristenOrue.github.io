@@ -1,20 +1,36 @@
+h1 {
+    background-color: black;
+}
+
 body {
-    background-color:#f5E8D0;
+    background-color: black;
     
 }
 img {
     border-image-width: 2px;
     border-color: #edffd9;
+    float: center;
+
 }
 
+h1 {
+    color:#81B53A;
+}
+
+h2{
+    color: #81B53A;
+}
 a {
-    color:#f6a035;
+    color: #81B53A;
         
 }
 p {
-    color:#3a3042;
+    color: grey;
+    text-align: center;
+    background-color: black
 }
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 body {
     padding-top: 3.5rem;
+    color: grey;
   }
